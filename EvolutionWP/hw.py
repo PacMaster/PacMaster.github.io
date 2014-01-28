@@ -1,8 +1,0 @@
-print("FFFFFF    RRRRRRR")
-print("FFFFFF    RRRR RRR")
-print("FFF       RRR   RRR")
-print("FFFFFF    RRRR RRR")
-print("FFFFFF    RRRRRRR")
-print("FFF       RRR   RR")
-print("FFF       RRR   RRR")
-print("FFF       RRR    RRR")
